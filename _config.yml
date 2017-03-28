@@ -1,13 +1,14 @@
 #
 # Basic settings.
 #
-# url: http://localhost:4000
+#url: http://localhost:4000
 # baseurl: ""
-url: http://ttskch.github.io
-baseurl: /jekyll-ttskch-theme
-title: Your name
-description: Some descriptions of yourself.
-avatar: /assets/img/ogp.png
+url: https://twinklebob.github.io
+baseurl: ""
+title: David Lumm
+description: Christian, Father, Husband, Geek, Programming Wizard
+#avatar: /assets/img/ogp.png
+avatar: https://www.gravatar.com/avatar/10d0a7cca3e3839297b1e5050c165dc4.jpg?s=200
 # favicon: /favicon.ico
 favicon: /assets/img/ogp.png
 # language: ja
@@ -19,9 +20,9 @@ language: en
 icons:
   rss: true
   email:
-  github: ttskch
-  bitbucket:
-  twitter: ttskch
+  github: twinklebob
+  bitbucket: cyberneticiandave
+  twitter: cyberneticdave
   facebook:
   google_plus:
   tumblr:
