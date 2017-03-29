@@ -27,6 +27,9 @@ layout: null
           <link>{{ url }}</link>
         </image>
         {% endif %}
+        {% for category in post.categories %}
+        <category domain="{{ category | prepend: '/categories/' | prepend: site.url }}">{{ category }}</category>
+        {% endfor %}
         <link>{{ url }}</link>
         <guid isPermaLink="true">{{ url }}</guid>
         <description>{{ post.content | xml_escape }}</description>

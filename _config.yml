@@ -13,6 +13,7 @@ avatar: //www.gravatar.com/avatar/10d0a7cca3e3839297b1e5050c165dc4.jpg?s=200
 favicon: //www.gravatar.com/avatar/10d0a7cca3e3839297b1e5050c165dc4.png?s=200
 # language: ja
 language: en
+future: false
 
 #
 # Icons
