@@ -8,9 +8,9 @@ baseurl: ""
 title: David Lumm
 description: Christian, Father, Husband, Geek, Programming Wizard
 #avatar: /assets/img/ogp.png
-avatar: https://www.gravatar.com/avatar/10d0a7cca3e3839297b1e5050c165dc4.jpg?s=200
+avatar: //www.gravatar.com/avatar/10d0a7cca3e3839297b1e5050c165dc4.jpg?s=200
 # favicon: /favicon.ico
-favicon: /assets/img/ogp.png
+favicon: //www.gravatar.com/avatar/10d0a7cca3e3839297b1e5050c165dc4.png?s=200
 # language: ja
 language: en
 
@@ -23,21 +23,21 @@ icons:
   github: twinklebob
   bitbucket: cyberneticiandave
   twitter: cyberneticdave
-  facebook:
-  google_plus:
+  facebook: david.lumm
+  google_plus: +DavidLumm
   tumblr:
   behance:
   dribbble:
   flickr:
-  instagram:
-  linkedin: # full URL
-  pinterest:
-  reddit:
+  instagram: cyberneticiandave
+  linkedin: https://www.linkedin.com/in/davidlumm/ # full URL
+  pinterest: gorthelyk
+  reddit: CyberneticianDave
   soundcloud:
-  stack_exchange: # full URL
+  stack_exchange: https://stackexchange.com/users/550385/cyberneticiandave # full URL
   steam:
   wordpress:
-  youtube:
+  youtube: CyberneticianDave
 
 #
 # Prettify url.
@@ -47,7 +47,7 @@ permalink: pretty
 #
 # Scripts.
 #
-google_analytics: # e.g. UA-000000-01
+google_analytics: UA-96377337-1 # e.g. UA-000000-01
 disqus:
 
 #
@@ -76,13 +76,13 @@ paginate_path: page/:num
 #
 share_buttons:
   twitter: true
-  facebook: false # needs ogp.fb.app_id
+  facebook: true # needs ogp.fb.app_id
   hatena: false
 ogp:
-  image_url: //ttskch.github.io/jekyll-ttskch-theme/assets/img/ogp.png
+  image_url: //www.gravatar.com/avatar/10d0a7cca3e3839297b1e5050c165dc4.png?s=600
   fb:
-    admin: # facebook admin id
-    app_id: # facebook application id
+    admin: david.lumm # facebook admin id
+    app_id: 139176982849302 # facebook application id
 
 #
 # Gems.
