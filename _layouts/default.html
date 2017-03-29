@@ -11,6 +11,8 @@
     {% assign description = site.description %}
     {% endif %}
 
+    {% capture titlelink %}{% if page.permalink %}/{% else %}{% link _pages/about.md %}{% endif %}{% endcapture %}
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -52,12 +54,12 @@
 <header class="site-header">
     <div class="inner clearfix">
         {% if site.avatar %}
-        <a href="{{ '/' | prepend: site.baseurl }}">
+        <a href="{{ titlelink | prepend: site.baseurl }}">
             <img class="avatar" src="{{ site.avatar | prepend: site.baseurl }}" alt=""/>
         </a>
         {% endif %}
         <h1 class="clearfix">
-            <a class="title {% if site.avatar == null %}slim{% endif %}" href="{{ '/' | prepend: site.baseurl }}">{{ site.title }}</a>
+            <a class="title {% if site.avatar == null %}slim{% endif %}" href="{{ titlelink | prepend: site.baseurl }}">{{ site.title }}</a>
             <br><span class="description">{% include description.html %}</span>
         </h1>
     </div>
@@ -87,6 +89,10 @@
                 {% include icons.html icons=site.icons %}
             </ul>
             <hr class="with-no-margin margin-bottom"/>
+
+            <div class="block">
+                <a class="twitter-timeline" data-height="420" href="https://twitter.com/CyberneticDave">Tweets by CyberneticDave</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
 
             <div class="block sticky">
                 <h2>{{ site.str_recent_posts }}</h2>
