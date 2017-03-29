@@ -4,6 +4,7 @@ layout: default
 
 <h1>Category: {{ page.title }}</h1>
 
+{% if site.categories[page.category] %}
 <ul>
 {% for post in site.categories[page.category] %}
   <li>
@@ -11,3 +12,6 @@ layout: default
   </li>
 {% endfor %}
 </ul>
+{% else %}
+No posts here, yet.
+{% endif %}
