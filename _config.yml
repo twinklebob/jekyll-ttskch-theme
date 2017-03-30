@@ -81,7 +81,7 @@ share_buttons:
   facebook: true # needs ogp.fb.app_id
   hatena: false
 ogp:
-  image_url: //www.gravatar.com/avatar/10d0a7cca3e3839297b1e5050c165dc4.png?s=600
+  image_url: https://www.gravatar.com/avatar/10d0a7cca3e3839297b1e5050c165dc4.png?s=600
   fb:
     admin: david.lumm # facebook admin id
     app_id: 139176982849302 # facebook application id
