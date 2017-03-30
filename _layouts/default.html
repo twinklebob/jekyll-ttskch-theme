@@ -11,7 +11,7 @@
     {% assign description = site.description %}
     {% endif %}
 
-    {% capture titlelink %}{% if page.permalink %}/{% else %}{% link _pages/about.md %}{% endif %}{% endcapture %}
+    {% capture titlelink %}{% if page.url == "/" %}{% link _pages/about.md %}{% else %}/{% endif %}{% endcapture %}
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -140,6 +140,5 @@
 
 {% include fb-root.html %}
 {% include google-analytics.html %}
-
 </body>
 </html>
