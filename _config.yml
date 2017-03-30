@@ -19,24 +19,25 @@ future: false
 # Icons
 #
 icons:
-  rss: true
-  email:
-  github: twinklebob
-  bitbucket: cyberneticiandave
-  twitter: CyberneticDave
-  facebook: david.lumm
-  google_plus: +DavidLumm
-  tumblr:
   behance:
+  bitbucket: cyberneticiandave
   dribbble:
+  email:
+  facebook: david.lumm
   flickr:
+  github: twinklebob
+  goodreads: cyberneticiandave
+  google_plus: +DavidLumm
   instagram: cyberneticiandave
   linkedin: https://www.linkedin.com/in/davidlumm/ # full URL
   pinterest: gorthelyk
   reddit: CyberneticianDave
+  rss: true
   soundcloud:
   stack_exchange: https://stackexchange.com/users/550385/cyberneticiandave # full URL
   steam:
+  tumblr:
+  twitter: CyberneticDave
   wordpress:
   youtube: CyberneticianDave
 

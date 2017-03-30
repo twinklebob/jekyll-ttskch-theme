@@ -2,7 +2,7 @@
 
 {% if icons.rss %}
 <li>
-    <a href="{{ '/feed.xml' | prepend: site.baseurl }}">
+    <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="Subscribe to my RSS feed">
         <i class="fa fa-fw fa-rss"></i>
     </a>
 </li>
@@ -16,25 +16,9 @@
 </li>
 {% endif %}
 
-{% if icons.github %}
-<li>
-    <a href="https://github.com/{{ icons.github }}">
-        <i class="fa fa-fw fa-github"></i>
-    </a>
-</li>
-{% endif %}
-
-{% if icons.bitbucket %}
-<li>
-    <a href="https://bitbucket.org/{{ icons.bitbucket }}">
-        <i class="fa fa-fw fa-bitbucket"></i>
-    </a>
-</li>
-{% endif %}
-
 {% if icons.twitter %}
 <li>
-    <a href="https://twitter.com/{{ icons.twitter }}">
+    <a href="https://twitter.com/{{ icons.twitter }}" title="{{ icons.twitter }} on Twitter">
         <i class="fa fa-fw fa-twitter"></i>
     </a>
 </li>
@@ -42,7 +26,7 @@
 
 {% if icons.facebook %}
 <li>
-    <a href="https://www.facebook.com/{{ icons.facebook }}">
+    <a href="https://www.facebook.com/{{ icons.facebook }}" title="{{ icons.facebook }} on Facebook">
         <i class="fa fa-fw fa-facebook"></i>
     </a>
 </li>
@@ -50,7 +34,7 @@
 
 {% if icons.google_plus %}
 <li>
-    <a href="https://plus.google.com/{{ icons.google_plus }}">
+    <a href="https://plus.google.com/{{ icons.google_plus }}" title="{{ icons.google_plus }} on Google+">
         <i class="fa fa-fw fa-google-plus"></i>
     </a>
 </li>
@@ -60,6 +44,46 @@
 <li>
     <a href="https://{{ icons.tumblr }}.tumblr.com/">
         <i class="fa fa-fw fa-tumblr"></i>
+    </a>
+</li>
+{% endif %}
+
+{% if icons.flickr %}
+<li>
+    <a href="https://www.flickr.com/photos/{{ icons.flickr }}">
+        <i class="fa fa-fw fa-flickr"></i>
+    </a>
+</li>
+{% endif %}
+
+{% if icons.instagram %}
+<li>
+    <a href="http://instagram.com/{{ icons.instagram }}" title="{{ icons.instagram }} on Instagram">
+        <i class="fa fa-fw fa-instagram"></i>
+    </a>
+</li>
+{% endif %}
+
+{% if icons.linkedin %}
+<li>
+    <a href="{{ icons.linkedin }}" title="LinkedIn Profile">
+        <i class="fa fa-fw fa-linkedin"></i>
+    </a>
+</li>
+{% endif %}
+
+{% if icons.github %}
+<li>
+    <a href="https://github.com/{{ icons.github }}" title="{{ icons.github }} on GitHub">
+        <i class="fa fa-fw fa-github"></i>
+    </a>
+</li>
+{% endif %}
+
+{% if icons.bitbucket %}
+<li>
+    <a href="https://bitbucket.org/{{ icons.bitbucket }}" title="{{ icons.bitbucket }} on BitBucket">
+        <i class="fa fa-fw fa-bitbucket"></i>
     </a>
 </li>
 {% endif %}
@@ -80,33 +104,9 @@
 </li>
 {% endif %}
 
-{% if icons.flickr %}
-<li>
-    <a href="https://www.flickr.com/photos/{{ icons.flickr }}">
-        <i class="fa fa-fw fa-flickr"></i>
-    </a>
-</li>
-{% endif %}
-
-{% if icons.instagram %}
-<li>
-    <a href="http://instagram.com/{{ icons.instagram }}">
-        <i class="fa fa-fw fa-instagram"></i>
-    </a>
-</li>
-{% endif %}
-
-{% if icons.linkedin %}
-<li>
-    <a href="{{ icons.linkedin }}">
-        <i class="fa fa-fw fa-linkedin"></i>
-    </a>
-</li>
-{% endif %}
-
 {% if icons.pinterest %}
 <li>
-    <a href="http://www.pinterest.com/{{ icons.pinterest }}">
+    <a href="http://www.pinterest.com/{{ icons.pinterest }}" title="{{ icons.pinterest }} on Pinterest">
         <i class="fa fa-fw fa-pinterest"></i>
     </a>
 </li>
@@ -114,7 +114,7 @@
 
 {% if icons.reddit %}
 <li>
-    <a href="https://www.reddit.com/user/{{ icons.reddit }}">
+    <a href="https://www.reddit.com/user/{{ icons.reddit }}" title="{{ icons.reddit }} on Reddit">
         <i class="fa fa-fw fa-reddit"></i>
     </a>
 </li>
@@ -130,7 +130,7 @@
 
 {% if icons.stack_exchange %}
 <li>
-    <a href="{{ icons.stack_exchange }}">
+    <a href="{{ icons.stack_exchange }}" title="Stack Exchange">
         <i class="fa fa-fw fa-stack-exchange"></i>
     </a>
 </li>
@@ -154,8 +154,16 @@
 
 {% if icons.youtube %}
 <li>
-    <a href="https://www.youtube.com/user/{{ icons.youtube }}">
+    <a href="https://www.youtube.com/user/{{ icons.youtube }}" title="{{ icons.youtube }} on Youtube">
         <i class="fa fa-fw fa-youtube"></i>
+    </a>
+</li>
+{% endif %}
+
+{% if icons.goodreads %}
+<li>
+    <a href="https://www.goodreads.com/{{ icons.goodreads }}" title="{{ icons.goodreads }} on Goodreads">
+        <i class="fa fa-fw fa-book"></i>
     </a>
 </li>
 {% endif %}
