@@ -57,8 +57,18 @@
     {% endif %}
 
     {% if include.eye_catch != false and page.eye_catch %}
+    {% if page.eye_catch_size.width %}
+    {% assign width_html = (page.eye_catch_size.width | prepend: ' width="' | append: '"') %}
+    {% else %}
+    {% assign width_html = '' %}
+    {% endif %}
+    {% if page.eye_catch_size.height %}
+    {% assign height_html = (page.eye_catch_size.height | prepend: ' height="' | append: '"') %}
+    {% else %}
+    {% assign height_html = '' %}
+    {% endif %}
     <p style="text-align: center">
-        <img class="eye-catch" src="{{ page.eye_catch }}"/>
+        <img class="eye-catch" src="{{ page.eye_catch }}"{{ width_html }}{{ height_html }}/>
     </p>
     {% endif %}
 </header>
