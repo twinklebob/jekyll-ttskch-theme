@@ -22,7 +22,9 @@ I would definitely recommend the resources on [WeUseCoins][1] as they explain th
 
 ## What do I do with it
 
-The reality is, I don't do a lot with it at all
+The reality is, I don't do a lot with it at all at the moment, although I'm always very interested in it. I started playing with Bitcoin fairly early on, probably somewhere towards the middle of the "early adopters" stage of the [technology adoption curve](http://lmgtfy.com/?q=technology+adoption+curve).
+
+I joined in at the time you could still mine bitcoins with GPUs and used an application to mine when the computer was idle, acting as part of a mining pool. I was able to collect <i class="fa fa-btc" aria-hidden="true"></i>3, worth about $3651 at today's price. Unfortunately I panicked when the price started crashing and sold *all* of my bitcoins for around £60. When the price quickly recovered I tried to buy some back, but it was too late. The price never crashed that low again. I also haven't gone to the trading platforms since then, I just don't understand that stuff enough!
 
 Photo credit: [jurvetson](https://www.flickr.com/photos/jurvetson/13543526165/) via [VisualHunt.com](https://visualhunt.com/re/ab6492) / [CC BY](http://creativecommons.org/licenses/by/2.0/)
 
