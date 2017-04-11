@@ -4,18 +4,14 @@
     <div class="panel">
         <h1>
             {% if include.link %}
-            <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-            {% else %}
-            {{ page.title }}
-            {% endif %}
+            <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a> {% else %} {{ page.title
+            }} {% endif %}
         </h1>
 
         <ul class="tags">
-            {% assign tags_num = (page.tags | size) %}
-            {% if tags_num > 0 %}
+            {% assign tags_num = (page.tags | size) %} {% if tags_num > 0 %}
             <li><i class="fa fa-tags"></i></li>
-            {% endif %}
-            {% for tag in page.tags %}
+            {% endif %} {% for tag in page.tags %}
             <li>
                 <a class="tag" href="{{ '/search/?t=' | append: tag | prepend: site.baseurl }}">#{{ tag }}</a>
             </li>
@@ -26,16 +22,12 @@
             <ul class="meta">
                 {% if page.date %}
                 <li>
-                    <i class="fa fa-calendar"></i>
-                    {{ page.date | date: "%Y-%m-%d" }}
+                    <i class="fa fa-calendar"></i> {{ page.date | date: "%Y-%m-%d" }}
                 </li>
-                {% endif %}
-
-                {% if page.author %}
+                {% endif %} {% if page.author %}
                 <li>
                     <a href="{{ '/search/?a=' | append: page.author | prepend: site.baseurl }}">
-                        <i class="fa fa-user"></i>
-                        {{ page.author }}
+                        <i class="fa fa-user"></i> {{ page.author }}
                     </a>
                 </li>
                 {% if page.icons %}
@@ -44,8 +36,10 @@
                         {% include icons.html icons=page.icons %}
                     </ul>
                 </li>
-                {% endif %}
-                {% endif %}
+                {% endif %} {% endif %}
+                <li>
+                    <i class="fa fa-clock-o"></i> {{ content | reading_time_as_i }}
+                </li>
             </ul>
         </div>
     </div>
@@ -54,21 +48,12 @@
     <div style="margin-top: 1em;">
         {% include share-buttons.html page=page %}
     </div>
-    {% endif %}
-
-    {% if include.eye_catch != false and page.eye_catch %}
-    {% if page.eye_catch_size.width %}
-    {% assign width_html = (page.eye_catch_size.width | prepend: ' width="' | append: '"') %}
-    {% else %}
-    {% assign width_html = '' %}
-    {% endif %}
-    {% if page.eye_catch_size.height %}
-    {% assign height_html = (page.eye_catch_size.height | prepend: ' height="' | append: '"') %}
-    {% else %}
-    {% assign height_html = '' %}
-    {% endif %}
+    {% endif %} {% if include.eye_catch != false and page.eye_catch %} {% if page.eye_catch_size.width %} {% assign width_html
+    = (page.eye_catch_size.width | prepend: ' width="' | append: '"') %} {% else %} {% assign width_html = '' %} {% endif
+    %} {% if page.eye_catch_size.height %} {% assign height_html = (page.eye_catch_size.height | prepend: ' height="' | append:
+    '"') %} {% else %} {% assign height_html = '' %} {% endif %}
     <p style="text-align: center">
-        <img class="eye-catch" src="{{ page.eye_catch }}"{{ width_html }}{{ height_html }}/>
+        <img class="eye-catch" src="{{ page.eye_catch }}" {{ width_html }}{{ height_html }}/>
     </p>
     {% endif %}
 </header>
