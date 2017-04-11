@@ -1,0 +1,8 @@
+{% assign page = include.page %}
+{% assign words = page.content | number_of_words %}
+{% if words < site.wpm %}
+Less than 1 minute
+{% else %}
+~{{ words | divided_by:site.wpm }} minute
+{% endif %}
+read

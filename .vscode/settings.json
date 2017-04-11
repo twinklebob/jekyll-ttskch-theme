@@ -13,5 +13,6 @@
         "MD002": {
             "level": 2
         }
-    }
+    },
+    "editor.formatOnSave": false
 }
