@@ -92,7 +92,7 @@ ogp:
 gems:
   - jekyll-paginate
   - jemoji
-  - jekyll-time-to-read
+  - jekyll-sitemap
 
 #
 # Styles: see "_sass/base/_variables.scss"
