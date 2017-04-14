@@ -86,12 +86,15 @@ ogp:
     admin: david.lumm # facebook admin id
     app_id: 139176982849302 # facebook application id
 
+wpm: 180
+
 #
 # Gems.
 #
 gems:
   - jekyll-paginate
   - jemoji
+  - jekyll-sitemap
 
 #
 # Styles: see "_sass/base/_variables.scss"

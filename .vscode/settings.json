@@ -5,6 +5,16 @@
         "**/.svn": true,
         "**/.hg": true,
         "**/.DS_Store": true,
+        "**/_site": true
+    },
+    "markdownlint.config": {
+        "MD013": false,
+        "MD041": false,
+        "MD002": {
+            "level": 2
+        }
+    },
+    "editor.formatOnSave": false
         "**/_site" : true
     },
     "terminal.integrated.shellArgs.windows": ["/E:ON", "/K C:\\Ruby22\\bin\\setrbvars.bat"]
