@@ -36,7 +36,7 @@ Since I got into this early I use a more complicated wallet than is probably nec
 
 ### Saving
 
-The first thing
+One of the things I was pleased to find was a Bitcoin savings account, with interest. [Magnr*](https:/www.magnr.com/?r=85495) gives a 1.28% rate on funds of up to <i class="fa fa-btc" aria-hidden="true"></i>100.
 
 Photo credit: [jurvetson](https://www.flickr.com/photos/jurvetson/13543526165/) via [VisualHunt.com](https://visualhunt.com/re/ab6492) / [CC BY](http://creativecommons.org/licenses/by/2.0/)
 
