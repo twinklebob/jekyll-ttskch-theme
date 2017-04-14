@@ -14,8 +14,6 @@
             "level": 2
         }
     },
-    "editor.formatOnSave": false
-        "**/_site" : true
-    },
+    "editor.formatOnSave": false,
     "terminal.integrated.shellArgs.windows": ["/E:ON", "/K C:\\Ruby22\\bin\\setrbvars.bat"]
 }
