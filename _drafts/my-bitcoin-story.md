@@ -24,7 +24,19 @@ I would definitely recommend the resources on [WeUseCoins][1] as they explain th
 
 The reality is, I don't do a lot with it at all at the moment, although I'm always very interested in it. I started playing with Bitcoin fairly early on, around 2013, probably somewhere towards the middle of the "early adopters" stage of the [technology adoption curve](http://lmgtfy.com/?q=technology+adoption+curve).
 
-I joined in at the time you could still mine bitcoins with GPUs and used an application to mine when the computer was idle, acting as part of a mining pool. I was able to collect <i class="fa fa-btc" aria-hidden="true"></i>3, worth about $3651 at today's price. Unfortunately I panicked when the price started crashing and sold *all* of my bitcoins for around £60. When the price quickly recovered I tried to buy some back, but it was too late. The price never crashed that low again. I also haven't gone to the trading platforms since then, I just don't understand that stuff enough!
+I joined in at the time you could still mine bitcoins with GPUs and used an application to mine when the computer was idle, acting as part of a mining pool. I was able to collect <i class="fa fa-btc" aria-hidden="true"></i>3, worth more than $3500 at today's prices. Unfortunately I panicked when the price started seriously crashing and sold *all* of my bitcoins for around £60. When the price quickly recovered I tried to buy some back, but it was too late. The price never crashed that low again. I also haven't gone to the trading platforms since then, it was quite clear that I just don't understand that stuff enough!
+
+My remnant sat untouched for quite a while and then I decided it was time to start looking again at what I could do with it.
+
+### Wallet
+
+Just like any other form of money, you need a way of carrying, spending and receiving bitcoins. These are called a wallet and come in a few different forms.
+
+Since I got into this early I use a more complicated wallet than is probably necessary. I use the Android app [Bitcoin Wallet](https://play.google.com/store/apps/details?id=de.schildbach.wallet) which is a pretty basic pure network node. It makes it pretty secure, but also very easy to lose all your bitcoins if you don't keep a backup.
+
+### Saving
+
+The first thing
 
 Photo credit: [jurvetson](https://www.flickr.com/photos/jurvetson/13543526165/) via [VisualHunt.com](https://visualhunt.com/re/ab6492) / [CC BY](http://creativecommons.org/licenses/by/2.0/)
 
