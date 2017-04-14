@@ -3,15 +3,20 @@ layout: default
 ---
 
 <h1>Category: {{ page.title }}</h1>
+<a href="{{ '/feed.xml' | prepend: page.category | prepend: '/categories/' | prepend: site.baseurl }}" title="Subscribe to the category RSS feed">
+  <i class="fa fa-rss"></i> Subscribe to the {{ page.title }} category RSS feed
+</a>
 
+<div>
 {% if site.categories[page.category] %}
-<ul>
-{% for post in site.categories[page.category] %}
-  <li>
-    {{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-</ul>
+  <ul>
+  {% for post in site.categories[page.category] %}
+    <li>
+      {{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+  </ul>
 {% else %}
 No posts here, yet.
 {% endif %}
+</div>
