@@ -8,9 +8,11 @@ eye_catch_size:
     width: 250px
 ---
 
-{% assign daily_rate = 984 %}
+{% assign daily_rate = 968 %}
 
 There's a good chance that you've heard about Bitcoin. It occasionally appears in the mainstream media, particularly when something really big or really bad happens, but there's a good chance you don't really understand it or how to do anything with it. I'm not going to go into it too deeply, as there are better guides at sites like [WeUseCoins.org][1] but I will do my best to provide some pointers for those of you who don't know much yet, as well as sharing my favourite sites and apps for those of you who are already interested.
+
+This one's a bit long, so grab yourself a cuppa and get stuck in!
 
 <!--more-->
 
@@ -36,7 +38,11 @@ Just like any other form of money, you need a way of carrying, spending and rece
 
 Since I got into this early I use a more complicated wallet than is probably necessary. I use the Android app [Bitcoin Wallet](https://play.google.com/store/apps/details?id=de.schildbach.wallet) which is a pretty basic pure network node. It makes it pretty secure, but also very easy to lose all your Bitcoins if you don't keep a backup.
 
-If you're starting out, you might want to go for something simpler. The [copay](https://copay.io/) service has a good reputation, as does [airBitz](https://airbitz.co/).
+If you're starting out, you might want to go for something simpler. The following all have a good reputation:
+
+* [Coinbase](https://www.coinbase.com/)
+* [copay](https://copay.io/)
+* [airBitz](https://airbitz.co/).
 
 ### Saving
 
@@ -46,11 +52,55 @@ Most of my Bitcoins have been sat in there for a while, as I still don't use the
 
 ### Using Bitcoin
 
+So this is the big question, isn't it?
 
+> What can I actually do with bitcoin?
+
+The short answer is "more than you might expect". The long answer is a bit more complicated. Unfortunately you can't just walk into most shops and pay with your Bitcoins at the moment, however there are some local places you can spend or exchange your bitcoins. There are some good resources at:
+
+* [coinmap.org](https://coinmap.org/)
+* [airbitz.co](https://airbitz.co/search?term=&location=Current+Location)
+* [usebitcoins.info](http://usebitcoins.info/index.php/bitcoin-in-the-real-world)
+* [Coin ATM Radar](https://coinatmradar.com/)
+
+Depending on where you are in the world, you might have better luck spending your bitcoin online. [Airbitz](https://airbitz.co/search?term=&location=On+the+Web) also has a non-exhaustive directory for that.
+
+Then there's the conversion apps: You can use [Gyft](https://www.gyft.com/) to exchange Bitcoin for vouchers for a lot of different shops, however I believe they are US-focused and all gift cards are denominated in dollars and may not work outside the US.
+
+My particular favourite though, are the Debit Card apps. Get a virtual or plastic debit card and top it up using bitcoin - most of them do this infrequently and you convert a lump at a time, locking in the bitcoin price at the time, I think at least one does this on-the-fly, extracting from your bitcoin balance every time you make a purchase. My particular favourite is [Wirex*](https://app.wirexapp.com/join/r1pVmPNhrESq2VB8fOOaPA).
+
+With Wirex you can have a US Dollar, Euro and Pound card in either plastic or virtual. Virtual allows you to spend online, whilst the plastic can be accepted anywhere that prepaid cards normally are. Having the different currencies means that you can spend in dollars or euros without having extra conversion rates applied.
+
+At the moment I have a virtual GBP card, which I haven't used much. It's worth noting that the cards are quite pricey, £13 for a plastic and £2.30 for a virtual. You do get money off if you sign up with my link, though. They also charge you £1/$1/€1 per month for holding the card, but they don't seem to charge any other fees, which other services do. You'd want to have a reasonable store of Bitcoin before buying the card, I think. On the plus side, however, you can use the app as a very basic wallet.
 
 ### Getting more Bitcoin
 
-### Notes about links
+The fastest way to get Bitcoin is to buy some, go to one of the exchanges and hand over your cash. Some good places to trade are:
+
+* [Coinbase](https://www.coinbase.com/)
+* [bittylicious.com](https://bittylicious.com/)
+* [LocalBitcoins](https://localbitcoins.com/)
+
+You can also buy bitcoins locally using a Bitcoin ATM, if you have one near you that offers buy services (check [Coin ATM Radar](https://coinatmradar.com/)).
+
+The next way is to look at a Bitcoin faucet (translation Bitcoin tap). These are places that dribble out small amounts of Bitcoin to help engage beginners and to get Bitcoin more widely used. The more people using it the more value in the currency, plus the more transactions that take place, the more Bitcoins can be mined from the process.
+
+There used to be a lot of faucets in the early days, but most of the good ones have dried up. For the most part they now make it quite hard to get any reasonable value out of them, but I recently found [BitMiner*](https://bitminer.io/1686048) which allows you to get Bitcoins for nothing _or_ earn more for a fee.
+
+I'm a little dubious, money for nothing seems like too good an offer, but as I say this practice has been part of Bitcoin from the beginning. As professional miners it helps them if the Bitcoin price stays up. If they dump a load of bitcoin on an exchange one day it will send the price down, whereas if they redistribute some of that Bitcoin they can keep the price up, as more people are using it. Also, as I said above, more transactions means more opportunities to mine. I reckon the greater rewards for investment is because they are treating you a little like an investor, although unlike an investor they can cut you off at any time. They can reinvest that money into more mining equipment and then generate even more income.
+
+So I'm going to give it a go and I recommend you do too, even if you only go for the free plan.
+
+My plan is to withdraw once a month, put the earnings into my Magnr savings account and keep upgrading the account until I get to the top level. At that point I'll be earning <i class="fa fa-btc" aria-hidden="true"></i>1 per day, or about £{{ daily_rate }} per day at today's prices. There's no risk, so why not, eh?
+
+## My recommendations
+
+* Get a wallet, if you haven't already
+* Get a Magnr savings account
+* Sign up for BitMiner, even if you only take the free dribble of coins
+* Get a Wirex account, so you can spend your earnings in the real world
+
+## Notes about links
 
 Some of the links in this post are suffixed with an asterisk, those links are affiliate links and will earn me a small percentage if you sign up using them. For some sites they also offer you a better deal than going directly, for instance Wirex will give you 25% off your first plastic card. If you don't want to click the affiliate link you're welcome to just google the services and find them directly.
 
