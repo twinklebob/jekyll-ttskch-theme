@@ -8,7 +8,7 @@ eye_catch_size:
     width: 250px
 ---
 
-{% assign daily_rate = 968 %}
+{% assign daily_rate = 970 %}
 
 There's a good chance that you've heard about Bitcoin. It occasionally appears in the mainstream media, particularly when something really big or really bad happens, but there's a good chance you don't really understand it or how to do anything with it. I'm not going to go into it too deeply, as there are better guides at sites like [WeUseCoins.org][1] but I will do my best to provide some pointers for those of you who don't know much yet, as well as sharing my favourite sites and apps for those of you who are already interested.
 
