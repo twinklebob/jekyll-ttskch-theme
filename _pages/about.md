@@ -34,7 +34,7 @@ I'm particularly found of:
 
 ## Programming Wizard
 
-In reality this is just a subset of the above, but I love solving software problems and I'm grateful that I get to do it for money. Last year I left full time employment and became a freelance contractor (see my profiles at [LinkedIn](https://www.linkedin.com/in/davidlumm/) and [Stack Overflow](http://stackoverflow.com/users/story/1016336).
+In reality this is just a subset of the above, but I love solving software problems and I'm grateful that I get to do it for money. Last year I left full time employment and became a freelance contractor (see my profiles at [LinkedIn](https://www.linkedin.com/in/davidlumm/) and [Stack Overflow](http://stackoverflow.com/users/story/1016336)).
 
 I'm also a business analyst and I enjoy helping smaller companies with their processes as they go through the growing pains of becoming a medium or large business (see [TwinkleBob Solutions](http://twinklebob.co.uk)).
 
