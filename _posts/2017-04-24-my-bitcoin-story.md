@@ -85,7 +85,7 @@ You can also buy bitcoins locally using a Bitcoin ATM provided you have one near
 
 The next way is to look at a Bitcoin faucet. These are places that dribble out small amounts of Bitcoin to help engage beginners and to get Bitcoin more widely used. The more people using it the more value in the currency, plus the more transactions that take place, the more Bitcoins can be mined from the process.
 
-There used to be a lot of faucets in the early days, but most of the good ones have dried up. For the most part, they now make it quite hard to get any reasonable value out of them, but I recently found [BitMiner*](https://bitminer.io/1686048) which allows you to get Bitcoins for nothing _or_ earn more for a fee.
+There used to be a lot of faucets in the early days, but most of the good ones have dried up. For the most part, they now make it quite hard to get any reasonable value out of them, but I recently found BitMiner [edit: this is a ponzi scam] which allows you to get Bitcoins for nothing _or_ earn more for a fee.
 
 I'm a little dubious, money for nothing seems like too good an offer, but as I say this practice has been part of Bitcoin from the beginning. As professional miners, it helps them if the Bitcoin price stays up. If they dump a load of bitcoin on an exchange one day it will send the price down, whereas if they redistribute some of that Bitcoin they can keep the price up, as more people are using it. Also, as I said above, more transactions means more opportunities to mine. I reckon the greater rewards for investment is because they are treating you a little like an investor (although unlike an investor they can cut you off at any time). They can invest that money into more mining equipment and then generate even more income.
 
@@ -97,12 +97,12 @@ My plan is to withdraw once a month, put the earnings into my Magnr savings acco
 
 * Get a wallet, if you haven't already
 * Get a [Magnr*](https:/www.magnr.com/?r=85495) savings account
-* Sign up for [BitMiner*](https://bitminer.io/1686048), even if you only take the free dribble of coins
+* ~~Sign up for BitMiner, even if you only take the free dribble of coins~~
 * Get a [Wirex*](https://app.wirexapp.com/join/r1pVmPNhrESq2VB8fOOaPA) account, so you can spend your earnings in the real world
 
 ## Notes about links
 
-Some of the links in this post are suffixed with an asterisk, those links are affiliate links and will earn me a small percentage if you sign up using them. For some sites, they also offer you a better deal than going directly. Wirex, for instance,will give you 25% off your first plastic card. If you don't want to click the affiliate link you're welcome to just google the services and find them directly.
+Some of the links in this post are suffixed with an asterisk, those links are affiliate links and will earn me a small percentage if you sign up using them. For some sites, they also offer you a better deal than going directly. Wirex, for instance, will give you 25% off your first plastic card. If you don't want to click the affiliate link you're welcome to just google the services and find them directly.
 
 Photo credit: [jurvetson](https://www.flickr.com/photos/jurvetson/13543526165/) via [VisualHunt.com](https://visualhunt.com/re/ab6492) / [CC BY](http://creativecommons.org/licenses/by/2.0/)
 
