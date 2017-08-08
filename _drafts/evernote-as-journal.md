@@ -12,7 +12,7 @@ In this update, I want to share how I've been recently using Evernote for a simp
 
 I've been using Evernote a long time, my account says I joined the 25th of May 2010. So that's nearly seven years of notes and documents stored there. Over that time I've used it to varying degrees to store all sorts of different things, the training course made me think of more ways I could use Evernote, both as a personal user and as a business.
 
-<!-- more -->
+<!--more-->
 
 
 
