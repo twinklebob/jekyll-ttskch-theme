@@ -12,7 +12,7 @@ Cornwall is a very special place to us. We've spent 8 of our 9 years of marriage
 
 <!--more-->
 
-The decision wasn't an easy one to make for lots of reasons, at the very least we had felt that we had moved to Cornwall with a purpose and that it would probably be our home for a long time to come, but we always knew that we would need to move at some point to be nearer to our parents in their dotage. It turned out, though, that family was something we were missing.
+The decision wasn't an easy one to make for lots of reasons, at the very least we had felt that we had moved to Cornwall with a purpose and that it would probably be our home for a long time to come, but we always knew that we would need to move at some point to be nearer to our parents in their dotage. :wink: It turned out, though, that family was something we were missing more and more.
 
 People who visit Cornwall for a week or two a year don't always realise just how remote it can be. For a lot of people, it's this sense of removal from the busy-ness of life that brings them back year after year, after all.
 
