@@ -38,17 +38,25 @@ I use [IFTTT](https://ifttt.com) to push the weather each morning, plus record a
 
 ## Templates
 
-I have a notebook called **"_Today Template"** (note the underscore so that the folder is listed first) which has a template for **Events**, **Tasks** and **Notes**. The templates are pretty simple, just blank with a bulletpoint or checkbox ready to start a list, but they also have tags already applied to them (in my case: Journal, Bullet Journal, eBuJo). At the start of each day I can copy these Notes to the **Today** notebook - although in practice I tend to duplicate the **Tasks** note to carry uncompleted tasks to the next day.
+I have a notebook called **"_Today Template"** (note the underscore so that the folder is listed first) which has a template for **Events**, **Tasks** and **Notes**. The templates are pretty simple, just blank with a bullet point or checkbox ready to start a list, but they also have tags already applied to them (in my case: Journal, Bullet Journal, eBuJo). At the start of each day I can copy these Notes to the **Today** notebook - although in practice I tend to duplicate the **Tasks** note to carry uncompleted tasks to the next day.
 
 I also experimented with a prompter note, one with questions for me to answer each day, but I rarely stuck to this. This could work for you, though. I adapted the questions from a journalling blog a long time ago when I was trying paper-based journalling. Unfortunately I can't remember where I found them, so I can properly attribute them. The questions are:
 
 1. What did I get done today?
 1. What worked?
-2. What didn't?
-3. What did I learn?
+1. What didn't?
+1. What did I learn?
 
 ## Monthly Journal Archive
 
-At the beginning of each day I merge all of the previous days notes (after duplicating the task list)
+At the beginning of each day I merge all of the previous days notes (after duplicating the task list) and set the title with the date and day plus some highlights from the day, for instance:
+
+> 12M - Dinner with Fred
+
+And I move the Note to a notebook for the current month. These are named so that they show in order, e.g. **7 (July) 2017** or **8 (August) 2017**. All of these notebooks are part of a stack - currently that notebook stack is called **eBuJo** but I think I'll have a stack per year, to make it easy to navigate through them.
+
+As the notes are added to the archive in date order, they show in order when you look at the notebook, so long as you don't make an edit to a note out of order.
+
+That's it for now, if I get any questions or if I learn anything new I'll write another post.
 
 Photo via [VisualHunt](https://visualhunt.com/re/ec80d2)
