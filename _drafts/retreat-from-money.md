@@ -30,7 +30,7 @@ I think there would need to be a community agreement to not claim benefits, exce
 
 This means that if you want to work in a normal job, you can; if you want to stay at home, you don't have to worry about the cost. If you're an artist or creator you can do that without worrying about rent.
 
-What would you do if you didn't need to work so much? I'd spend more time learning things, doing the garden, playing with my son and being involved in his education. For me this is the dream utopia of a post-scarcity economy, freedom from slavery to money.
+What would you do if you didn't need to work so much? I'd spend more time creating, learning things, gardening, playing with my son and being involved in his education. For me this is the dream utopia of a post-scarcity economy, freedom from slavery to money.
 
 
 
