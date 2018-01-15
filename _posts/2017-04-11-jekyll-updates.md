@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Update on Jekyll updates (meta)
-tags: geek programming jekyll
+tags: geek programming jekyll meta
 categories: geek programming
 eye_catch: https://visualhunt.com/photos/m/7/technologe-screens-monitors.jpg
 ---

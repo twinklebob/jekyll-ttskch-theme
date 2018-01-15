@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Retraction: Bitcoin recommendations"
-tags: geek bitcoin
+tags: geek bitcoin meta
 category: geek
 eye_catch: https://visualhunt.com/photos/m/1/sign-slippery-wet-caution-1.jpg
 ---
