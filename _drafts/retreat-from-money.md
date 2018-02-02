@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to avoid money as a community
+title: How to avoid capitalism as a community
 tags: geek money capitalism politics economics
 category: geek
 eye_catch: https://visualhunt.com/photos/m/8/contando-dinheiro-1.jpg
