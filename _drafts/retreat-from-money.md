@@ -6,9 +6,9 @@ category: geek
 eye_catch: https://visualhunt.com/photos/m/8/contando-dinheiro-1.jpg
 ---
 
-I don't know about you, but I'm pretty fed up with money. It seems like our entire lives is filled with the endless (and somewhat hopeless) pursuit for enough money to survive only for what we have to be taken from us in our old age, and as the saying goes "you can't take it with you".
+I don't know about you, but I'm pretty fed up with money. It seems like our entire lives are filled with the endless (and somewhat hopeless) pursuit for enough money to survive only for what we have to be taken from us in our old age, and as the saying goes "you can't take it with you".
 
-I'm not a fan of capitalism, but it seems like we're stuck with it for the foreseeable future. So how can we live counter to that culture when it is so deeply embedded in the way our nation (and most of the world) work?
+I'm not a fan of capitalism, but it seems like we're stuck with it for the foreseeable future. So how can we live contrary to the prevailing culture when it is so deeply embedded in the way our nation (and most of the world) work?
 
 I came up with an idea, though. It involves wrapping the more "socialist" community in a capitalist bubble.
 
@@ -52,6 +52,6 @@ I'd imagine it would work best either on a small scale (a few families come toge
 
 I've not heard about anything similar being done before, so maybe there's a reason for that? A significant barrier would be trust: you would need to trust the members to be honest about their income and for those not earning to do something meaningful with their time.
 
-So am I way off the mark or am I onto something? You can carry on the conversation on twitter or facebook.
+So am I way off the mark or am I onto something? I'm well aware that this is a very broad overview of an idea, and no doubt I've left out some important details, but hopefully you can get my point. You can carry on the conversation with me on twitter or facebook.
 
 Photo credit: [Jeff Belmonte](https://www.flickr.com/photos/jeffbelmonte/8228640/) via [VisualHunt](https://visualhunt.com/re/da7cb6) / [CC BY](http://creativecommons.org/licenses/by/2.0/)
