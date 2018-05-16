@@ -11,7 +11,7 @@
         <ul class="tags">
             {% assign tags_num = (page.tags | size) %}
             {% if tags_num > 0 %}
-            <li><i class="fa fa-tags"></i></li>
+            <li><i class="fas fa-tags"></i></li>
             {% endif %}
             {% for tag in page.tags %}
             <li>
@@ -24,13 +24,13 @@
             <ul class="meta">
                 {% if page.date %}
                 <li>
-                    <i class="fa fa-calendar"></i> {{ page.date | date: "%Y-%m-%d" }}
+                    <i class="fas fa-calendar"></i> {{ page.date | date: "%Y-%m-%d" }}
                 </li>
                 {% endif %}
                 {% if page.author %}
                 <li>
                     <a href="{{ '/search/?a=' | append: page.author | prepend: site.baseurl }}">
-                        <i class="fa fa-user"></i> {{ page.author }}
+                        <i class="fas fa-user"></i> {{ page.author }}
                     </a>
                 </li>
                     {% if page.icons %}
@@ -42,7 +42,7 @@
                     {% endif %}
                 {% endif %}
                 <li>
-                    <i class="fa fa-clock-o"></i> {% include read_time.html page=page %}
+                    <i class="far fa-clock"></i> {% include read_time.html page=page %}
                 </li>
             </ul>
         </div>

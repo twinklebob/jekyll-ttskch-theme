@@ -28,7 +28,7 @@ I would definitely recommend the resources on [WeUseCoins][1] as they explain th
 
 The reality is, I don't do a lot with it at all at the moment, although I'm always very interested in it. I started playing with Bitcoin fairly early on, around 2013, probably somewhere towards the middle of the "early adopters" stage of the [technology adoption curve](http://lmgtfy.com/?q=technology+adoption+curve).
 
-I joined in at the time you could still mine bitcoins with GPUs and used an application to mine when the computer was idle, acting as part of a mining pool. I was able to collect <i class="fa fa-btc" aria-hidden="true"></i>3, worth around £{{ daily_rate | times: 3 }} at today's prices. Unfortunately, I panicked when the price started seriously crashing and sold *all* of my bitcoins for around £60. When the price quickly recovered I tried to buy some back, but it was too late. The price never crashed that low again. I also haven't gone to the trading platforms since then, it was quite clear that I just don't understand that stuff enough!
+I joined in at the time you could still mine bitcoins with GPUs and used an application to mine when the computer was idle, acting as part of a mining pool. I was able to collect <i class="fab fa-btc" aria-hidden="true"></i>3, worth around £{{ daily_rate | times: 3 }} at today's prices. Unfortunately, I panicked when the price started seriously crashing and sold *all* of my bitcoins for around £60. When the price quickly recovered I tried to buy some back, but it was too late. The price never crashed that low again. I also haven't gone to the trading platforms since then, it was quite clear that I just don't understand that stuff enough!
 
 My remnant sat untouched for quite a while and then I decided it was time to start looking again at what I could do with it.
 
@@ -46,7 +46,7 @@ If you're starting out, you might want to go for something simpler. The followin
 
 ### Saving
 
-One of the things I was pleased to find was a Bitcoin savings account, with interest. [Magnr*](https:/www.magnr.com/?r=85495) gives a 1.28% rate on funds of up to <i class="fa fa-btc" aria-hidden="true"></i>100. At the current price that makes the upper limit about £{{ daily_rate | times: 100 }}, although you can still store more Bitcoin there securely, you just don't earn interest on it.
+One of the things I was pleased to find was a Bitcoin savings account, with interest. [Magnr*](https:/www.magnr.com/?r=85495) gives a 1.28% rate on funds of up to <i class="fab fa-btc" aria-hidden="true"></i>100. At the current price that makes the upper limit about £{{ daily_rate | times: 100 }}, although you can still store more Bitcoin there securely, you just don't earn interest on it.
 
 Most of my Bitcoins have been sat in there for a while, as I still don't use them much they've managed to grow a little over the last couple of years.
 
@@ -91,7 +91,7 @@ I'm a little dubious, money for nothing seems like too good an offer, but as I s
 
 So I'm going to give it a go and I recommend you do too, even if you only go for the free plan.
 
-My plan is to withdraw once a month, put the earnings into my Magnr savings account and keep upgrading the account until I get to the top level. At that point, I'll be earning <i class="fa fa-btc" aria-hidden="true"></i>1 per day or about £{{ daily_rate }} per day at today's prices. There's no risk, so why not, eh? By my calculations that should take about 6 months.
+My plan is to withdraw once a month, put the earnings into my Magnr savings account and keep upgrading the account until I get to the top level. At that point, I'll be earning <i class="fab fa-btc" aria-hidden="true"></i>1 per day or about £{{ daily_rate }} per day at today's prices. There's no risk, so why not, eh? By my calculations that should take about 6 months.
 
 ## My recommendations
 
