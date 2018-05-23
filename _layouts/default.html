@@ -148,15 +148,7 @@
 {% endif %}
 
 {% if page.layout == "post" %}
-<script>
-    $(function(){
-        $.getJSON("https://webmention.io/api/mentions?jsonp=?", {
-          target: "{{ page.url | prepend: site.baseurl }}"
-        }, function(data){
-          console.log(data);
-        });
-      });
-</script>
+<script src="{{ '/assets/js/post.js' | prepend: site.baseurl }}"></script>
 {% endif %}
 
 {% include fb-root.html %}
