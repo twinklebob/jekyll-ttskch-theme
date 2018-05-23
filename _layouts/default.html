@@ -147,6 +147,18 @@
 <script src="{{ '/assets/js/search.js' | prepend: site.baseurl }}"></script>
 {% endif %}
 
+{% if page.layout == "post" %}
+<script>
+    $(function(){
+        $.getJSON("https://webmention.io/api/mentions?jsonp=?", {
+          target: "{{ page.url | prepend: site.baseurl }}"
+        }, function(data){
+          console.log(data);
+        });
+      });
+</script>
+{% endif %}
+
 {% include fb-root.html %}
 {% include google-analytics.html %}
 </body>
