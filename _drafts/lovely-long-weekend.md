@@ -6,7 +6,7 @@ category: family
 eye_catch: https://lh3.googleusercontent.com/QLfs5MyGzgdYgooKTye0HSI67f3uqOH5KtRawj4LqfKxKPK96_mO9TIxpQC12FGu-YYIQvk3eJ2AowAk2XULemOpwJ-K_0rJB6ZNt1wdKvod_2OEJ3fwyOFS42tvAEdOUXlJFw31yvY=w1280-h720-no
 ---
 
-I don't know about you, but the long weekend seems so far away already. I want to quickly write about it before it completely fades from memory. We had a great time.
+I don't know about you, but the long weekend seems so far away already. I wanted to quickly write about it before it completely fades from memory, but I took too long. We had a really great time.
 
 Every couple of months we try to get down to see my parents in Cornwall. Somewhat by accident we planned this visit to coincide with the long weekend, so we were able to spend an extra day with them and the Cornish countryside. Sometimes we just enjoy the break from routine, but this time we managed to cram so much in. I just wanted to share an overview of a lovely weekend.
 
@@ -18,9 +18,9 @@ After tea, before I finished up my work, we took a trip to Par beach. We've been
 
 We managed to explore so much of the beach, including waterfalls and rock pools which had only just been exposed. I've not been much good at taking pictures recently, but I managed to grab a couple including the one at the top of this post.
 
-Saturday
+Saturday: Trerice (twice)
 
-Trerice (twice)
+On Saturday we went out to [Trerice House and Gardens](https://www.nationaltrust.org.uk/trerice). As we're all National Trust members this was a fairly cheap day out (although we did visit the cafe and I can highly recommend the Lemon Meringue, even if it is bit pricey). 
 
 Sunday
 
