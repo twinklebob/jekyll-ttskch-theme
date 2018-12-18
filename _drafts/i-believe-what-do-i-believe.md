@@ -27,6 +27,7 @@ There are 11 doctrines that I’m going to briefly run through one by one. It sh
 
 That the scriptures were given by divine inspiration remains a clear belief, although I think that the word “inspiration” is important here. Humanity has certainly had an affect on the scriptures as they were originally recorded, chosen for the collection we call the Bible and again as they are translated to better suit our modern culture. However, to decide that the inspiration of God stopped after the last book of the bible was written seems a little limiting; The Salvation Army itself has always placed great emphasis on the movement of the spirit, so I think it’s important that we stay open to God speaking into our world today, the way that he spoke to the first believers. This is considerably less clear cut, and a much harder road to navigate, but I think it gives us more opportunity to hear from God.
 
+{:start="2"}
 2. *We believe that there is only one God, who is infinitely perfect, the Creator, Preserver, and Governor of all things, and who is the only proper object of religious worship.*
 
 I was about to just type “Yep” when the word “Governor” jumped out at me. This is an issue I’m currently struggling with, and one that we’ve talked about quite a bit. Whilst I believe that God is all powerful and can do anything, I also believe in free will and that we must worship him in “spirit and in truth” not just because He’s commanded that we will.
