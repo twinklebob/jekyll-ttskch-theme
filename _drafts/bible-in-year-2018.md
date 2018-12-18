@@ -27,7 +27,7 @@ Given all the prophecy that relates to the Exile and to Jesus, it's clear that t
 Then we have stories of Jesus from the New Testament. When viewed in the light of the Exile, there's a lot to read between the lines. But what has really been a revelation is the letters of Paul, now that I'm able to better understand the foundations on which he built his understanding (the Old Testament), I'm able to receive his instruction all the better.
 
 It's true what is said:
-> The Word of God is alive and active _(A paraphrase of Hebrews 4:12, probably mashing up a few translations)_
+> The Word of God is alive and active... _(A paraphrase of Hebrews 4:12, probably mashing up a few translations)_
 
 We are more blessed in this day and age to have so much access to the Bible and to the scholars who study it tirelessly. I now add my huge delays accessing it to my (very short) list of regrets.
 
