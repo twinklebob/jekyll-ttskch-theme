@@ -31,6 +31,6 @@ It's true what is said:
 
 We are more blessed in this day and age to have so much access to the Bible and to the scholars who study it tirelessly. I now add my huge delays accessing it to my (very short) list of regrets.
 
-Perhaps this year will be the year I share more of what I'm learning. We can hope, eh?
+Perhaps this coming year will be the year I share more of what I'm learning. We can hope, eh?
 
 Photo credit: Photo on [Foter.com](https://foter.com)
