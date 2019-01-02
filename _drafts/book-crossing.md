@@ -20,7 +20,7 @@ We didn't have time to sell them all, most of them had writing or things on them
 
 I'm not sure when I first came across the website, but I loved the idea straight away. The basic premise is that books have a life of their own: you read a book and then you pass it on. But even better than that, you can follow the life of a book!
 
-Every book is given a unique identifier (a BookCrossing ID or BCID) which you write or stick somewhere inside the front cover. Then you pass it on to someone, or you leave it in one of those little libraries in phone boxes or the like, or perhaps you just leave it in a public place for someone to find. The general idea is that whoever finds it then looks for it online and updates it's story. (So far I've only had one update on a book).
+Every book is given a unique identifier (a BookCrossing ID or BCID) which you write or stick somewhere inside the front cover. Then you pass it on to someone, or you leave it in one of those little libraries in phone boxes or the like, or perhaps you just leave it in a public place for someone to find. The general idea is that whoever finds it then looks for it online and updates it's story. (So far I've only had one update on a book). You can find out more on the [About BookCrossing](https://www.bookcrossing.com/about) page over on their site.
 
 Back before we moved I paid for a months membership, got some pre-numbered labels printed and set about labelling, registering and releasing the books. At first I tried releasing in public places, but it scared me a bit that the book would never be found and read. So I then stuck with releasing in a couple of book sharing locations.
 
