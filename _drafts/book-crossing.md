@@ -28,10 +28,8 @@ So far I've registered 65 books and released 47 of them, 43 of those were releas
 
 In the end I only managed to mostly do the books that had never been ours in the first place. We still need to go through some of the others, so I'll hopefully be labelling and releasing some more soon, as we get ourselves more settled. I'd also love to have one of those little library boxes in our front garden or something, but we'll have to see about that.
 
-I could have just taken the books to the same places and left them just as easily, but I'm so interested to see what happens to them. Where they might go! So far I've only had one update on one book, but there's still time.
+I could have just taken the books to the same places and left them just as easily, but I'm so interested to see what happens to them. Where they might go! So far I've only had one update on one book, but there's still time. If I get any interesting stories on any of my books, I'll be sure to share it here too!
 
-If I get any interesting stories on any of my books, I'll be sure to share it here too!
-
-If you see any books with a BCID in the front, now you know what to do, get online and update the story. You'll make someone's day!
+Now you know what to do if you see any books with a BCID in the front: get online and update the story. You'll make someone's day!
 
 Photo credit: [RLHyde](https://visualhunt.com/author/bd99e4) on [VisualHunt](https://visualhunt.com/re/dcdbe1) / [CC BY-SA](http://creativecommons.org/licenses/by-sa/2.0/)
