@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setting books free
-tags: moving, changes, family, bristol
+tags: moving, changes, family, bristol, bookcrossing
 categories: family, bristol
 eye_catch: https://visualhunt.com/photos/10/books-21.jpg
 ---
@@ -20,7 +20,7 @@ We didn't have time to sell them all, most of them had writing or things on them
 
 I'm not sure when I first came across the website, but I loved the idea straight away. The basic premise is that books have a life of their own: you read a book and then you pass it on. But even better than that, you can follow the life of a book!
 
-Every book is given a unique identifier (a BookCrossing ID or BCID) which you write or stick somewhere inside the front cover. Then you pass it on to someone, or you leave it in one of those little libraries in phone boxes or the like, or perhaps you just leave it in a public place for someone to find. The general idea is that whoever finds it then looks for it online and updates it's story. (So far I've only had one update on a book). You can find out more on the [About BookCrossing](https://www.bookcrossing.com/about) page over on their site.
+Every book is given a unique identifier (a BookCrossing ID or BCID) which you write or stick somewhere inside the front cover. Then you pass it on to someone, or you leave it in one of those little libraries in phone boxes or the like, or perhaps you just leave it in a public place for someone to find. The general idea is that whoever finds it then looks for it online and updates it's story. You can find out more on the [About BookCrossing](https://www.bookcrossing.com/about) page over on their site.
 
 Back before we moved I paid for a months membership, got some pre-numbered labels printed and set about labelling, registering and releasing the books. At first I tried releasing in public places, but it scared me a bit that the book would never be found and read. So I then stuck with releasing in a couple of book sharing locations.
 
@@ -28,6 +28,10 @@ So far I've registered 65 books and released 47 of them, 43 of those were releas
 
 In the end I only managed to mostly do the books that had never been ours in the first place. We still need to go through some of the others, so I'll hopefully be labelling and releasing some more soon, as we get ourselves more settled. I'd also love to have one of those little library boxes in our front garden or something, but we'll have to see about that.
 
+I could have just taken the books to the same places and left them just as easily, but I'm so interested to see what happens to them. Where they might go! So far I've only had one update on one book, but there's still time.
+
 If I get any interesting stories on any of my books, I'll be sure to share it here too!
+
+If you see any books with a BCID in the front, now you know what to do, get online and update the story. You'll make someone's day!
 
 Photo credit: [RLHyde](https://visualhunt.com/author/bd99e4) on [VisualHunt](https://visualhunt.com/re/dcdbe1) / [CC BY-SA](http://creativecommons.org/licenses/by-sa/2.0/)
