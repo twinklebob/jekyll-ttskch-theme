@@ -6,7 +6,7 @@ category: family
 eye_catch: https://lh3.googleusercontent.com/QLfs5MyGzgdYgooKTye0HSI67f3uqOH5KtRawj4LqfKxKPK96_mO9TIxpQC12FGu-YYIQvk3eJ2AowAk2XULemOpwJ-K_0rJB6ZNt1wdKvod_2OEJ3fwyOFS42tvAEdOUXlJFw31yvY=w1280-h720-no
 ---
 
-I don't know about you, but the long weekend seems so far away already. I wanted to quickly write about it before it completely fades from memory, but I took too long, so hopefully I can remember the key moments. Rest assured, we had a really great time!
+I wrote this post about the long weekend at the end of May 2018. For some reason I never quite finished or published it. Despite it's age, it's a nice memory and one I'd like to record, so I'm publishing it anyway.
 
 Every couple of months we try to get down to see my parents in Cornwall. Somewhat by accident we planned this visit to coincide with the long weekend, so we were able to spend an extra day with them and the Cornish countryside. Sometimes we just enjoy the break from routine, but this time we managed to cram so much in. I just wanted to share an overview of a lovely weekend.
 
