@@ -8,7 +8,7 @@ eye_catch: https://lh3.googleusercontent.com/s9td7wzv764P6HMyqN_utuV3uLRYptCMXaE
 
 Taking down the Christmas decorations is hard. We took all ours down on Sunday. They've been up from the beginning of December and we didn't feel we could push them any further. It doesn't matter that the tree is starting to drop more and more needles, it was still hard to say goodbye.
 
-Compared to putting the decorations up, taking them down is a much easier job, but the emotional incentive just isn't there. The decorations represent good things, and taking them down means the end of those good things.
+Compared to putting the decorations up, taking them down is a much easier job, but the emotional incentive just isn't there. The decorations represent good things, and taking them down means the end of those good things!
 
 <!--more-->
 
@@ -18,9 +18,9 @@ I really enjoy the "festival of lights" aspect of Christmas. That statement of l
 
 The problem is that these days there are so many bright lights, and their appearance is so predictable, that we don't always take notice of the dark that they are standing up to. In some places the dark doesn't have a chance! That is, until January.
 
-The days might be technically getting longer, but we're more likely to be in the bleak midwinter in January than we are in February. All of the celebrations have passed and the lights are all gone. January is dark and it's depressing. The most depressing day of the year is in January [date?].
+The days might be technically getting longer, but we're more likely to be in the bleak midwinter in January than we are in December. All of the celebrations have passed and the lights are all gone. January is dark and it's depressing. It's no wonder that they call the third Monday in January "Blue Monday" (it's the 21st this year).
 
-It reminds me a little of a scene in Aladdin (I love that film). The Genie has just given the performance of his life, showing what he's capable of, the performance has escalated fast and then all of a sudden it ends and they're back trapped in the dark cave. It's that sudden contrast between the high of Christmas and the low of January that can test our hope.
+It reminds me a little of a scene in Aladdin (I love that film): The Genie has just given the performance of his life, showing what he's capable of, the performance has escalated fast and then all of a sudden it ends and they're back trapped in the dark cave. It's that sudden contrast between the high of Christmas and the low of January that can test our hope.
 
 Of course we know that the sun will come, it always does, but we know we still have a lot to get through before that. There's beasts from the east, there's (drip drip drop) little april showers. Can hope really last?
 
