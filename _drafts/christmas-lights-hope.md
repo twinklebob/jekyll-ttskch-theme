@@ -14,6 +14,20 @@ Compared to putting the decorations up, taking them down is a much easier job, b
 
 Still, it could be worse. Mousehole Harbour Lights (pictured) take around 3 months to set up and are usually only up for about 3 weeks!
 
+I really enjoy the "festival of lights" aspect of Christmas. That statement of light standing up against the deepest darkness of the year, around the winter solstice, is a statement of hope. We'll survive the darkness and the light will come again. It's no wonder this festival was blended with the celebration of the birth of Jesus.
 
+The problem is that these days there are so many bright lights, and their appearance is so predictable, that we don't always take notice of the dark that they are standing up to. In some places the dark doesn't have a chance! That is, until January.
 
+The days might be technically getting longer, but we're more likely to be in the bleak midwinter in January than we are in February. All of the celebrations have passed and the lights are all gone. January is dark and it's depressing. The most depressing day of the year is in January [date?].
+
+It reminds me a little of a scene in Aladdin (I love that film). The Genie has just given the performance of his life, showing what he's capable of, the performance has escalated fast and then all of a sudden it ends and they're back trapped in the dark cave. It's that sudden contrast between the high of Christmas and the low of January that can test our hope.
+
+Of course we know that the sun will come, it always does, but we know we still have a lot to get through before that. There's beasts from the east, there's (drip drip drop) little april showers. Can hope really last?
+
+Hope is a fragile thing and without it we're lost. The Bible has a lot to say about hope. In fact you could argue that the whole narrative is about hope. James, I think, says about how the old testament characters died in their hope, waiting for the messiah to come. But our hope didn't end with Jesus, it was only just beginning.
+
+I've heard of people keeping a Christmas decoration out all year, to remind them of the real meaning of Christmas, that's it's message wasn't just for a season, but for all time. That our hoping continues. That the sun will come.
+
+Don't let your hope fade with the Christmas lights. Look after yourselves this January. As my sister-in-law always says: _There's always hope!_
+	
 Photo credit: One of my pictures of Mousehole Harbour Lights, Christmas 2018
