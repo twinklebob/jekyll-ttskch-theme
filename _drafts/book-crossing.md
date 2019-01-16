@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Setting books free
-tags: moving, changes, family, bristol, bookcrossing
-categories: family, bristol
+tags: moving changes family bristol bookcrossing
+categories: family bristol
 eye_catch: https://visualhunt.com/photos/10/books-21.jpg
 ---
 

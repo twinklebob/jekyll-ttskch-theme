@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Year Resolutions for 2019
-tags: me, family, reading, writing, journalling
+tags: me family reading writing journalling
 category: family
 eye_catch: https://visualhunt.com/photos/4/scrabbles-with-letters-during-new-years-celebration.jpg
 ---
