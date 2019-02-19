@@ -3,13 +3,13 @@ layout: post
 title: Not a Horrible Day
 tags: family theatre education home-education egyptians
 category: family
-eye_catch: https://lh3.googleusercontent.com/k8gWTXai7E3RRZMrgodfJ3Pxj_5V5KmmLuv5i7z_GsOaWjU0kMLX7gB4rNPHyxg9-Os--J1iqohjFHQw8AKpsOFa0K09eF_BvEfpQx8IwmRddegvn_LD3-dPfNRmJ5YDXw5uf_zI_N88MgJdcMz6MKK1IZS9qGky6nEswK2XaJu5Am75HYSfDJIySOwMjYQJMRmPnt7lFivVek1XC3S9fUfD2oYwpRk1WMRgKpJFE44_b53oIav3Cm39rJ1iuCnPARqMErWIT6gEbDtGohSJ5oj8t62NHIxHCDywQT40-cMcz7IwkQiEMYWSG-RNh8Hv7vCrsNHcC-IFCqbibspjd7wrcL2-R9hK1hr4FdnV2-7WyrzT9W2wc15TvUxl3jpTP_f-M4UcDdU6KeGCS1_Q63vuplSaWlBzD5KtsgCe9ult_zVM8frUDXIB-mlTQPE57RTmzns2mdLEjy-ZrGShxPOvMtsIuOEezrGWvlNBpMze0PgCiMKbUmdk-mwcql1cQoDnEHjr8IyXGDhyB3_UTL8JXLZd0nY2cLDJzfHEl_BZMmpw5ON5Cec5WqdSzI12YwRiOHsfewvATSaOSrrLb_c68H4GbbGhUAjCuKHHyzqHas_5wOjwoMeLz5PopEwYnZPZw6R5BOqi-eN_8nr1ahKvyA=w1280-h720-no
+eye_catch: https://lh3.googleusercontent.com/VQtrjkjCEUXBEmJG8NXrqBgMT18Zq5VU--QPmhTKLKTt9cdMDL8UtJzj8HtigdCyf1g_0vw3-tTsjGEQWqJ20vZbsODfWpDod6bAKxpNh1us9cPoHGhf8rw9Ev2_x3S25ZWEF9Ral9SAPJFgoU4btU5GZOVsZTXMlRLHCgUMHnJTZ_K96dLt36SiEwGjKOzAU8_qBYlB513vQf0j9YnvvFjipktjRbDI3CrDp9KRa0ZiCbEQA7OcdCjIskVciG5Y2EvKhFCcmnh-Y2WkLDVEHLNXKJVZBCckSYiNNOrkuT4kI0-ZnwoRBaLdc9cPNoNjGM9bAizpQEMzgbYV1VT4CCkv8LT-uXIImty7t-z9TZ-PFMQu97EqaIvuYkyLsrMtTIReoWyg4DCjKETRDldZBdWQzid9pAtb4ie4tXVEuY0NoEfMl-UJfl-EIXia-GDWbwIK_XMq8iRStQODXthaktiClAD_ZL8FNi9pS_PBdeVhZJ_EimDgDhahfkNPnzi7Ww2JJhBJ6LgsHKunuYaV3NizGwIOjLIh_FCxqZunrktvrdVBGhlejjQN-g7Mar9pBcWll8mjTsY6R5EFAy2JNYjYfYP2Jp3iUwiHcM4t13BUeCUqu3ADf_BiCNvjfWPpl5pGvn9R1y23egt3Q-_4GvXJcFsQnXqVLeAX1xGV5l9DR6XzQCBCW3ZOndNCXLiqRmON-265QvAYIbb5kgAt3e2gGA=w1243-h699-no
 ---
 
 For Christmas Isaac was given a ticket to see the Horrible Histories: Awful Egyptians show at the theatre by his auntie and uncle. They both bought tickets and so did we. Last week I took a day off and we went to The Playhouse in Weston-super-Mare to watch it together and we had a great time!
 
 <!--more-->
 
-We were trying to work out when Isaac first started watching the Horrible Histories TV programme and he may well have been around 3 or 4
+We were trying to work out when Isaac first started watching the Horrible Histories TV programme and he may well have been around 3 or 4. He found it hilarious at the time and we figured that at least it was educational.
 
 Photo credit:
