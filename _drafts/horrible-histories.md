@@ -28,15 +28,15 @@ Part of the set in the first half was a projected image (quite often animated) t
 
 I'm not sure if they're touring, but if you ever get a chance to see one, I'd definitely recommend going to see a Horrible Histories production!
 
-We left there with Ancient Egyptian facts and songs ringing in our ears and headed for some Fish and Chips. We were at the seaside, after all!
+We left there with Ancient Egyptian facts and songs ringing in our ears and headed for some lunch.
 
-We hadn't planned anywhere in particular, but we'd passed a little place on our way to the theatre so it was agreed to at least give it a look.
+Before going out we hadn't planned anywhere in particular, only that we had to have Fish and Chips. We were at the seaside, after all! Siân and Rich had seen a little place on their way to the theatre and said it looked promising.
 
-I hadn't even noticed it on the drive past, but it turned out to be a lovely retro place. Papa's Fish and Chip Restaurant appears to have had a bit of a name for itself - there are signed pictures of a host of famous people from the 80s and early 90s. It reminded me of the sort of place you'd find at the seaside up north.
+I hadn't even noticed it on the drive past, but it turned out to be a lovely and quite old fashioned place. Papa's Fish and Chip Restaurant appears to have had a bit of a name for itself - there are signed pictures of a host of famous people from the 80s and early 90s. It reminded me of the sort of place you'd find at the seaside up north.
 
 The portions were huge and the staff were so lovely. It was a level of service you don't often get these days. And yes it was a bit more pricey than take away fish and chips, but I think for a special occasion it was worth it!
 
-I'd eaten so much at lunch that I couldn't eat the rest of the day. Those who know me know that means a lot!
+I'd eaten so much at lunch that I just couldn't eat the rest of the day. Those who know me know that means a lot!
 
 That afternoon and evening Isaac and Lucy made some paper chains and we managed to play some board games together, including Touring England, which is a family favourite!
 
