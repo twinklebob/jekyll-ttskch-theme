@@ -36,12 +36,4 @@ I'm particularly found of:
 
 In reality this is just a subset of the above, but I love solving software problems and I'm grateful that I get to do it for money. Last year I left full time employment and became a freelance contractor (see my profiles at [LinkedIn](https://www.linkedin.com/in/davidlumm/) and [Stack Overflow](http://stackoverflow.com/users/story/1016336)).
 
-I'm also a business analyst and I enjoy helping smaller companies with their processes as they go through the growing pains of becoming a medium or large business (see [TwinkleBob Solutions](http://twinklebob.co.uk)).
-
-## Cornwall
-
-This ties in closely with my faith. We originally moved to Cornwall because we felt we were following a call from God.
-
-We started in Looe but have spent the last 6 years living near Hayle. I've learnt some Kernowek (cornish language) and got involved in local groups. We might not be Cornish, but our son was born here and we've made this home.
-
-I might not be much of a surfer, but I do enjoy getting in the sea when I can. We also enjoy the woods and the moors, Cornwall has so much to offer! [Bryntin](http://cornishdictionary.org.uk/browse?field_word_value=bryntin)!
+I'm also a bit of a business analyst and I enjoy helping smaller companies with their processes as they go through the growing pains of becoming a medium or large business (see [TwinkleBob Solutions](http://twinklebob.co.uk)).
