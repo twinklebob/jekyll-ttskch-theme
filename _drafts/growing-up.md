@@ -14,7 +14,7 @@ The other night I helped him off to sleep, which I have done most nights since h
 
 But this particular night was different. I was wondering how much longer he'll want to do this with me. I don't anticipate it being long until he decides he's happy to go to sleep on his own with just his teddies (and possibly Willow) for company. Given what I've read of other co-sleepers it may not be very far away.
 
-It made me emotional that night and it's making me emotional again writing about it. Those years just fly by. All those difficult days, through teething or fierce toddler independence, all those times we thought to ourselves "will this ever end?" whilst simultaneously reminding ourselves "this too shall pass" - and of course it did.
+It made me emotional that night and it's making me emotional again writing about it. Those years just fly by. All those difficult days, through teething or fierce toddler independence, all those times we struggled whilst simultaneously reminding ourselves "this too shall pass" - and of course it did.
 
 That mantra became so important, helping us through the hardest times and reminding us to cherish the little things. It's quite shocking what has already passed, never to return.
 
