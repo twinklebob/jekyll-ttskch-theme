@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How about co-operative home ownership?
-tags: geek, money, capitalism, economics, community
+tags: geek money capitalism economics community
 category: geek
 eye_catch: https://visualhunt.com/photos/12/terraced-housing-in-the-rhondda-valley-homes.jpg
 ---
@@ -28,13 +28,13 @@ It could continue halving, but would probably need a minimum cap to ensure _some
 
 My other thought was that this privilege could stay with the renter even if they moved:
 
-> Member Sally started renting a £500 per month studio when she was at university. A couple of years later she got married and moved into Flat A with a market rate of £650 per month. After a few more years they have children and decide to move to House B with a market rate of £1200 so they can have more room. Because she's been a renting member for 10 years, they would only pay £600 per month on House B.
+> Member Sally started renting a £500 per month studio when she was at university. A couple of years later she got married and moved into Flat B with a market rate of £650 per month. After a few more years they have children and decide to move to House C with a market rate of £1200 so they can have more room. Because she's been a renting member for 10 years, they would only pay £600 per month on House C.
 
 This way you could easily move to the right home for each stage in your life. No deposits to pay, no agents fees to pay, just look at the portfolio of available houses and say "we'll take that one!"
 
 Of course sometimes there might not be a perfect house for you that's already available, at which point you could ask the co-operative to buy one. The problem is, a new property needs a new mortgage. My idea would be that each new property had a minimum length of full payment, regardless of the status of the member, so that the first say 10 years of a propery would always be paid at market rate. That could almost certainly be reduced as the co-operative grew.
 
-As people move and houses are left vacant, more new members would join starting from year zero, paying full market rate on a house that may already have been paid for.
+As people move and houses are left vacant, more new members would join starting from year zero, paying full market rate on a house that may already have been paid for, thus supporting the rest of the membership. In time it might be possible to reduce that initial rate, too.
 
 You could stay in the same house cradle to grave, if you wanted, or you could move every few years. You'd be free to do as you please. You could decorate as you want and make changes to the house. Some of these I think the co-operative could even pay for, if they add value to the house. Think your house would be better with a conservatory? Make a case to the property manager and have one built; your rent goes up, of course, but you've just added a room without having to move!
 
