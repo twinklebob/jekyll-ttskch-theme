@@ -12,13 +12,14 @@ Content
 
 More content
 
-Father of this Army, Captain of our soldiers
-May Your glory fill the earth
-As this world grows colder, may Your troops be bolder
-May we fight with only love
-May the crosses we bear be the weapons of our warfare
-May we even more dare for You
-May we even more dare for You
+> Father of this Army, Captain of our soldiers
+> May Your glory fill the earth  
+>As this world grows colder, may Your troops be bolder  
+>May we fight with only love  
+>May the crosses we bear be the weapons of our warfare  
+>May we even more dare for You  
+>May we even more dare for You
+
 Let our uniform be holiness and mercy
 Justice clothed with grace and truth
 Those who speak be fearless, those who serve be blameless
