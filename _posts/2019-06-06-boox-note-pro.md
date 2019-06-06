@@ -37,4 +37,4 @@ The only real issue I've found so far is synchronising with Calibre, my eBook li
 
 I've now been keeping a bullet journal for about eight months, which is probably the most pen on paper writing I've done for years, certainly the most that has been kept and not just thrown in the recycling. Will I start using the Note Pro for that? I think I could, but at the moment I'm enjoying the physical nature of that journal, so I'll probably keep going with real paper for a while. After all, it's still easier to thumb through a real book!
 
-Photo credit:
+Photo credit: Lucy Lumm
