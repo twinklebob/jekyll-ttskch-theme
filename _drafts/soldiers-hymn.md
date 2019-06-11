@@ -8,7 +8,7 @@ eye_catch: https://visualhunt.com/photos/3/looking-up-hope-black-white-portrait-
 
 These days the world can seem a scary place. Extremism of all kinds is on the rise. People are scared and confused and they are lashing out.
 
-More than ever it seems that this world needs love, hope, mercy and justice. Those are all themes you find running through the Old and New Testament.
+More than ever it seems that this world needs love, hope, mercy and justice. Those are all themes you find running through the Old and New Testament. Sometimes as Christians we get a bit focussed on eternity, but that's only part of the story.
 
 It's been a while since I've shared song lyrics on a blog, but I recently used my Google Rewards and downloaded an album that has been on my Google wishlist for a while. This song was on there and I thought I'd share the lyrics with you.
 
