@@ -14,6 +14,8 @@ It's a great series and I think it has a lot to teach us. The format is well kno
 
 Over the course of a month the four families face hardship, hard-work and hard lessons. It's not easy. Finally, in the last week the families must face the "progress" offered by the industrial revolution and mechanisation. It was a killer for families and communities like that back then, but we know now with hindsight that it was also a killer for our fishstocks. More more more eventually turned into less less less.
 
+The show got me thinking, what would someone from one of those 1900 communities think of the way we live?
 
+The family lived in a single kitchen/dining/living room, and often shared a single bedroom. They cooked and warmed the house using a single solid fuel stove that had to be kept burning all day and night.
 
 Photo credit:
