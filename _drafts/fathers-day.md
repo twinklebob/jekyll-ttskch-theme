@@ -25,4 +25,6 @@ Despite there being so many people there, the service was quick and painless and
 
 It was the house, however, that really blew us away. It was originally built in Elizabeth times, but had a rough history including fires which left it in a sorry state. Part of it were used as a farmhouse, parts used as storage for cider barrels etc and parts weren't fit for human habitation and were filled with owls and bats.
 
+At a time when other grand houses were being demolished the National Trust was just getting started in it's mission of saving as many as possible. They took on Barrington Court and it could've been their greatest mistake. It was too far gone and the renovations required were too much for the fledging Trust to take on. In fact the story goes that "Barrington Court" became a warning phrase used when the Trust considered other such houses for decades after.
+
 Photo credit:
