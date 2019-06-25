@@ -27,4 +27,10 @@ It was the house, however, that really blew us away. It was originally built in 
 
 At a time when other grand houses were being demolished the National Trust was just getting started in it's mission of saving as many as possible. They took on Barrington Court and it could've been their greatest mistake. It was too far gone and the renovations required were too much for the fledging Trust to take on. In fact the story goes that "Barrington Court" became a warning phrase used when the Trust considered other such houses for decades after.
 
+Colonel Lyle also had an interest in these old houses and had been collecting wood panelling and other items from other country houses as they had been demolished. I'm not sure how they got in contact, but the Trust got in contact with Colonel Lyle and made him an offer. A 99 year lease (£1 a year) in exchange for renovation works. It was the best thing the Trust could've done!
+
+A house that nearly destroyed the Trust is now one of it's finest treasures. Honestly! We've seen a few of them and they're all spectacular, but there was just something about this place and it's story!
+
+There's no furniture, the family took it all when they gave up the lease, so you're forced to imagine all the years of history. Which era would they choose anyway? Elizabethan times? The farmhouse? During the second world war when the house became a school? As it is, you get the opportunity to 
+
 Photo credit:
