@@ -18,4 +18,6 @@ The show got me thinking, what would someone from one of those 1900 communities 
 
 The family lived in a single kitchen/dining/living room, and often shared a single bedroom. They cooked and warmed the house using a single solid fuel stove that had to be kept burning all day and night.
 
+They worked hard, for often little reward. They had 
+
 Photo credit:

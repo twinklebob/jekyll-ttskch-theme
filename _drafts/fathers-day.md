@@ -7,7 +7,7 @@ eye_catch: https://visualhunt.com/photos/m/8/contando-dinheiro-1.jpg
 # TODO: Needs picture
 ---
 
-Our Father's Day started fairly quietly, but turned out to be a bit of a surprise. We'd been watching the weather through the week and making a few plans and backup plans for the day and then Isaac woke up not feeling great on top of that the weather looked worse than we had expected.
+Our Father's Day started fairly quietly, but turned out to be a bit of a surprise. We'd been watching the weather through the week and making a few plans and backup plans for the day. Then Isaac woke up not feeling great and on top of that the weather looked worse than we had expected.
 
 Thankfully Isaac improved quickly and we were able to think of something to salvage the rest of the day. We decided that a National Trust property made sense, as we're members, and that we wanted to try a new one. Ideally we were hoping to find one where we could take Willow, but it's not always possible.
 
@@ -25,7 +25,7 @@ Despite there being so many people there, the service was quick and painless and
 
 It was the house, however, that really surprised us. It was originally built in Elizabeth times, but had a rough history including fires which had left it in a sorry state. Parts of it were used as a farmhouse, parts used as storage for cider barrels etc and parts weren't fit for human habitation and were filled with owls and bats.
 
-At the time the National Trust was just getting started other grand houses in all states of repair were being demolished. The Trust embarked on a mission of saving as many as possible and they took on Barrington Court as one of their first and it could've been their greatest mistake. It was too far gone and the renovations required were too much for the fledging Trust to take on. In fact the story goes that "Remember Barrington Court" became a warning phrase used when the Trust considered other such houses for decades after.
+As the National Trust was just getting started, lots of grand houses in all states of repair were being demolished. The Trust embarked on a mission of saving as many as possible and they took on Barrington Court as one of their first and it could have been their greatest mistake. It was too far gone and the renovations required were too much for the fledging Trust to take on. In fact the story goes that "Remember Barrington Court" became a warning phrase used when the Trust considered other such houses for decades after.
 
 Colonel Lyle also had an interest in these old houses and had been collecting wood panelling and other items from other country houses as they had been demolished. I'm not sure how they got in contact, but the Trust got in contact with Colonel Lyle and made him an offer. A 99 year lease (at £1 a year!) in exchange for renovation works. It was the best thing the Trust could've done! He poured all of his attention to detail and his incredible collection into the renovations. He even learned some carpentry and got hands-on! All of the wood panelling looks as though it has always been there, sometimes there are little hints that this was a patchwork of other pieces, but they only make the transformation all the more wonderful!
 
