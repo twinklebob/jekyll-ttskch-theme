@@ -3,8 +3,7 @@ layout: post
 title: Father's Day at Barrington Court
 tags: family national-trust 
 category: family
-eye_catch: https://visualhunt.com/photos/m/8/contando-dinheiro-1.jpg
-# TODO: Needs picture
+eye_catch: https://lh3.googleusercontent.com/fT7HkKJTssWLlutDY6FAmbJ-bN2zc7D4s4xOAxExuGljHmzjrbNNM6kYy708cjT27Fv1xaTEfOelqaycg9JzHqhqyEG1VFwzDCIcQGGlsDLE6IlgM5hqVSmPO_IFd19ipnTXa8rXLMo=w1280-h720-no
 ---
 
 Our Father's Day started fairly quietly, but turned out to be a bit of a surprise. We'd been watching the weather through the week and making a few plans and backup plans for the day. Then Isaac woke up not feeling great and on top of that the weather looked worse than we had expected.
@@ -37,4 +36,4 @@ The gardens were originally planned to be a grand 1920s re-interpretation of an 
 
 If you ever get a chance, make sure you visit. We'll definitely be going back!
 
-Photo credit:
+Photo credit: One of mine
