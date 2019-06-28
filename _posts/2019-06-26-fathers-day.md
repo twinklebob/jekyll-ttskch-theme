@@ -14,7 +14,7 @@ A quick search on the National Trust website (which works really well) showed us
 
 <!--more-->
 
-We didn't know anything about Barrington Court short of the short blurb on the website. What we found there totally blew us away. 
+We didn't know anything about Barrington Court short of the short blurb on the website. What we found there totally blew us away.
 
 When we got there the car park was rammed because they were having a jazz concert on the south lawn. They managed to squeeze us in, but I don't think they were used to having quite so many people there.
 
