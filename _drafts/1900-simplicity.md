@@ -18,8 +18,14 @@ Recently we also got the chance to visit a Tudor re-enactment, with people livin
 
 A family lived in a single kitchen/dining/living room, and often shared a single bedroom. They cooked and warmed the house using a single solid fuel stove that had to be kept burning all day and night.
 
-People worked hard, for often little reward. They had to do all their chores manually, nearly all of their work was physical. There weren't many medicines and illnesses that we would think of as insignificant today would have been at the best disruptive and at the worst fatal.
+People worked hard, for often little reward. They had to do all their chores manually, nearly all of their work was physical. There weren't many medicines and illnesses that we would think of as insignificant today would have been at the best disruptive and at the worst fatal. All this to say, I know it's easy to over-romanticise the past, but I also know it wasn't all rosy.
 
-The progress Mechanisation and capitalism 
+A lot of the transformation in the way people lived came from the rapid mechanisation of the industrial age, and the consumerism that developed from that. Something that a person had to work months to afford became cheaper as they could be farmed/fished/made in increasing bulk. For instance, the small fishing communities that were emulated on the the TV programme simply couldn't keep up with the steam trawlers who could catch more and stay out longer.
+
+However, we now understand that not everything that promised progress was for the best in the long run. All those trawlers have caused so many problems in the ecosystem of our seas.
+
+What if we could start again from the simplicity of pre-industrialisation and add on what we now know? Apply the most modern of technology? Would this allow us to lead simpler lives without too many hard compromises?
+
+
 
 Photo credit:
