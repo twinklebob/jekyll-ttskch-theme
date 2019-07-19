@@ -26,6 +26,14 @@ However, we now understand that not everything that promised progress was for th
 
 What if we could start again from the simplicity of pre-industrialisation and add on what we now know? Apply the most modern of technology? Would this allow us to lead simpler lives without too many hard compromises?
 
+Imagine that simple life, without too many concerns, but with electricity, running water, a washing machine, a fridge/freezer, maybe even a microwave. No cars, because everything you need is nearby.
 
+The more I think about it, the more I realise that people are already making this shift. The tiny house movement, digital nomads, people going "off-grid", counter-culture communities etc.
+
+It seems that turning your back on some of the modern world doesn't require a complete denial of all the good progress of the last hundred years. It doesn't need to be like the film [The Village](https://en.wikipedia.org/wiki/The_Village_(2004_film)). Instead we can take the time to decide which things we consider progress and which are ultimately damaging to humanity or the world. The good news is that thanks to the colourful nature of humanity, each persons compromises could be very different.
+
+For me, I'm realising that it's hard to break free of old habits and old measures of success, especially when you become more established. I can imagine that the next generation will be much freer of the trappings of modernity than my generation.
+
+So what you be willing to compromise on? What could you never let go of?
 
 Photo credit:
