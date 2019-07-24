@@ -34,6 +34,8 @@ It seems that turning your back on some of the modern world doesn't require a co
 
 For me, I'm realising that it's hard to break free of old habits and old measures of success, especially when you become more established. I can imagine that the next generation will be much freer of the trappings of modernity than my generation.
 
-So what you be willing to compromise on? What could you never let go of?
+I've thought about and [written about]({{ site.baseurl }}{% post_url 2018-02-02-how-avoid-capitalism-community %}) these sorts of things for ages, but the reality is it's hard to make those changes sometimes. It's much easier to start off that way.
+
+What from the modern world would you be willing to compromise on? What could you never let go of?
 
 Photo credit:
