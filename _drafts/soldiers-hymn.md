@@ -44,7 +44,7 @@ I first heard this song when watching some of the coverage of the 150th annivers
 > Forward to the glorious fight of love  
 > Forward to the glorious fight of love
 
-I'm reminded of the words in Micah (6:6-8), where the prophet is explaining how the ritual of sacrifices (i.e. religion) is not enough if they are not meaningful, instead God requires more:
+I'm reminded of the words in Micah (6:6-8), where the prophet is explaining how the _ritual_ of sacrifices (i.e. religion) is not enough if they are not meaningful, instead God requires more:
 
 > With what shall I come before the Lord  
 > and bow down before the exalted God?  
