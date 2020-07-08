@@ -21,5 +21,4 @@ One thing I do particularly like about CodeIgniter is that it doesn't use a temp
 
 Btw, I've seen this trick on some other webpages that I enjoy reading (particularly recently [CSS Tricks](css-tricks.com)) where they have brief articles that send you off elsewhere. As I start to withdraw from social media it looks like an interesting way to share other content that I find across the interwebs. So that's what this is and I'll probably be doing it more.
 
-
 Photo credit: [Z-tec](https://visualhunt.co/a5/dffbd8) on [Visualhunt](https://visualhunt.com/re7/8f42c04f) / [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/2.0/)
