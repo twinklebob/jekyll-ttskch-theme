@@ -8,6 +8,11 @@ layout: default
         <section class="post-content">
             {{ content }}
         </section>
+        {% if page.off_site %}
+        <div class="off-site-link">
+            <a href="{{ page.off_site }}" target="_blank"><i class="fa fa-link"></i> <strong>Direct Link</strong></a>
+        </div>
+        {% endif %}
         {% include article-footer.html page=page share=page.share %}
     </article>
 </div>

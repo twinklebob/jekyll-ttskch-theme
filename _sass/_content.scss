@@ -168,6 +168,14 @@
         .footnotes {
             font-size: 0.9em;
         }
+        .off-site-link{
+            a {
+                display: inline-block;
+                background-color: lighten($brand-color, 20%);
+                padding: 10px;
+                margin-top: 10px;
+            }
+        }
     }
 
     .comments {
