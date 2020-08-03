@@ -3,19 +3,21 @@ layout: post
 title: Matching in PHP8
 tags: PHP PHP8 programming
 category: programming
-eye_catch: https://visualhunt.com/photos/m/8/contando-dinheiro-1.jpg
+eye_catch: https://visualhunt.com/photos/3/man-working-on-portable-computer.jpg?s=m
 off_site: https://laravel-news.com/match-expression-php-8
 ---
 
 I'm getting quite excited with each update or announcement I hear about the upcoming PHP version 8. Sometimes I miss announcements, so I'm glad to see other people discussing them too.
 
-Paul at Laravel News shared about the upcoming [Match Expression](https://laravel-news.com/match-expression-php-8) that will be coming with PHP8.
+Paul at Laravel News shared about the upcoming [Match Expression](https://laravel-news.com/match-expression-php-8) that will be coming with PHP8 and it's one of the updates that I can immediately see I would use.
 
 <!--more-->
 
-It solves some common situations where you have to choose between a complicated set of `if/then/else` statements or a `switch` statement, each of which ends up being overcomplicated for what should be the simple task of choosing a value based on another value.
+This syntax solves some common situations where you have to choose between a complicated set of `if/then/else` statements or a `switch` statement, each of which ends up being overcomplicated for what should be a simple task of choosing a value, or performing an action, based on another value. It's also easy for people to make mistakes in `switch` statements, which are fixed with this syntax.
 
-The example given on Laravel News shows just how much more concise the syntax is:
+I'm particularly pleased that since it's an expression, you can assign the result to a variable, instead of having to duplicate the assignment for each possibility.
+
+The example given in the RFC shows just how much more concise the syntax is:
 
 ```php
 // Before
@@ -48,4 +50,4 @@ $statement = match ($this->lexer->lookahead['type']) {
 
 I'm looking forward to using it!
 
-Photo credit:
+Photo credit: [Visualhunt](https://visualhunt.com/re7/b0bf926b)
